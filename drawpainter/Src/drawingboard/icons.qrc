@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/笔.png</file>
+        <file>icon/矩形.png</file>
+        <file>icon/三角形.png</file>
+        <file>icon/删除操作.png</file>
+        <file>icon/删除操作1.png</file>
+        <file>icon/刷子.png</file>
+        <file>icon/椭圆.png</file>
+        <file>icon/圆1.png</file>
+        <file>icon/直线.png</file>
+        <file>icon/polygon.png</file>
+    </qresource>
+</RCC>
