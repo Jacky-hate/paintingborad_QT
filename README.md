@@ -22,4 +22,3 @@ computer graphics course design
 提供多种不同的画笔；
 
 
-![image](https://user-images.githubusercontent.com/73630866/139200260-503d6762-6036-4f62-9f5a-5339c4cc4e03.png)
